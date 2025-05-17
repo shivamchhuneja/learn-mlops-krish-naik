@@ -1,0 +1,5 @@
+# Ignore virtual environments
+venv/
+
+# Ignore installers
+Miniconda3-latest-MacOSX-arm64.sh
