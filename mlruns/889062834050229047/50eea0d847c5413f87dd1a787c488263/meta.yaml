@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/889062834050229047/50eea0d847c5413f87dd1a787c488263/artifacts
+deleted_time: 1747639857225
+end_time: 1747639252425
+entry_point_name: ''
+experiment_id: '889062834050229047'
+lifecycle_stage: deleted
+run_id: 50eea0d847c5413f87dd1a787c488263
+run_name: valuable-trout-33
+run_uuid: 50eea0d847c5413f87dd1a787c488263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747639252410
+status: 4
+tags: []
+user_id: shivam

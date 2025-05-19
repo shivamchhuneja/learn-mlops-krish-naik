@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/889062834050229047/f022e62c8c5447429454054b48d342ec/artifacts
+deleted_time: 1747639894892
+end_time: 1747639805413
+entry_point_name: ''
+experiment_id: '889062834050229047'
+lifecycle_stage: deleted
+run_id: f022e62c8c5447429454054b48d342ec
+run_name: smiling-crab-164
+run_uuid: f022e62c8c5447429454054b48d342ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747639803591
+status: 3
+tags: []
+user_id: shivam

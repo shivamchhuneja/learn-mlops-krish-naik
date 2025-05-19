@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/889062834050229047/ce801981ef2a483b971ac96386bd237b/artifacts
+end_time: 1747639306647
+entry_point_name: ''
+experiment_id: '889062834050229047'
+lifecycle_stage: active
+run_id: ce801981ef2a483b971ac96386bd237b
+run_name: bouncy-auk-38
+run_uuid: ce801981ef2a483b971ac96386bd237b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747639304472
+status: 3
+tags: []
+user_id: shivam
